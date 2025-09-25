@@ -39,6 +39,8 @@ listacompras
 
 Você pode ver alguns exemplos de execução do programa neste PDF:  
 [➡️ ListaCompras-Sample Outputs](https://github.com/bloomingmiracle/FinalProject-ListaDeCompras/blob/main/ListaCompras-SampleOutputs.pdf)
+[Acesse o Relatório](https://github.com/bloomingmiracle/FinalProject-ListaDeCompras/blob/main/Final%20Project%20Report.pdf)
+
 ---
 
 ## 👩‍💻 Autora  
