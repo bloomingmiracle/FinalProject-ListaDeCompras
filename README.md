@@ -32,18 +32,20 @@ listacompras
 ├── GerenciadorListaCompras.java
 └── ProductNotFoundException.java
 
+---
+## Relátorio.
+ Neste PDF, você pode ver mais detalhes sobre o projeto.
+
+[Acesse o Relatório 📄](https://github.com/bloomingmiracle/FinalProject-ListaDeCompras/blob/main/Final%20Project%20Report.pdf)
 
 ---
-
 ## 📄 Exemplos de Saída  
 
 Você pode ver alguns exemplos de execução do programa neste PDF:  
 [➡️ ListaCompras-Sample Outputs](https://github.com/bloomingmiracle/FinalProject-ListaDeCompras/blob/main/ListaCompras-SampleOutputs.pdf)
-[Acesse o Relatório](https://github.com/bloomingmiracle/FinalProject-ListaDeCompras/blob/main/Final%20Project%20Report.pdf)
 
 ---
 
-## 👩‍💻 Autora  
-Projeto desenvolvido por **Miracle Temitope Hazzan**.  
-
+## 👩‍💻 Autora
+Projeto desenvolvido por **Miracle Temitope Hazzan** ✨
 
